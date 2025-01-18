@@ -4,7 +4,8 @@ I'm just a guy with a passion for turning awesome ideas into reality, striving t
 
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
 **Projects:**
 
 - Why is it so empty here? 🦯 I should really finish my projects.
