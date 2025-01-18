@@ -46,9 +46,6 @@ _I’m obsessed with keeping track of everything_ 😅
 
 </details>
 
----
-_✍️ Last updated: 18 January 2025_
-
 <!---
 laempe/laempe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
