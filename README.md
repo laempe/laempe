@@ -21,7 +21,7 @@ I'm just a guy with a passion for turning awesome ideas into reality, striving t
 
 <details>
   <summary><b>What I've Learned</b></summary>
-<span style="display: block; margin-top: 1em;"></span>
+<br>
 
 | date        | skill     |specifics              |
 |:------------|:----------|:----------------------|
@@ -39,7 +39,7 @@ _I’m obsessed with keeping track of everything_ 😅
 
 <details>
   <summary><b>Currently Learning</b></summary>
-<span style="display: block; margin-top: 0.5em;"></span>
+<br>
 
 - **GitHub**  
 - **Functional Programming**  
