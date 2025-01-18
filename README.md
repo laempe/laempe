@@ -16,7 +16,6 @@ I'm just a guy with a passion for turning awesome ideas into reality, striving t
 - I'm a professional baker – the best sourdough bread in Cyprus.
 - I have a strong love for drawing and art.
 - I'm an exceptional video editor.
-- I always try to come up with algorithms from scratch.
 - I typically don't rely on an [LSP](https://en.wikipedia.org/wiki/Language_Server_Protocol) for most of my projects.
 
 <details>
