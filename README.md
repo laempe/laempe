@@ -13,34 +13,37 @@ I'm just a guy with a passion for turning awesome ideas into reality, striving t
 
 **Fun Facts:**
 
-- I live on an island
-- I'm also a professional baker – the best sourdough bread in Cyprus
-- I'm an exceptional video editor with over 10 years of experience
-- I always try to come up with algorithms from scratch
-- I use [NeoVim](https://github.com/neovim/neovim), btw
+- I'm a professional baker – the best sourdough bread in Cyprus.
+- I have a strong love for drawing and art.
+- I'm an exceptional video editor.
+- I always try to come up with algorithms from scratch.
+- I typically don't rely on an [LSP](https://en.wikipedia.org/wiki/Language_Server_Protocol) for most of my projects.
 
 <details>
   <summary><b>What I've Learned</b></summary>
-<br>
+<span style="display: block; margin-top: 1em;"></span>
 
-- **`Jan 2025` | markdown**  
-- **`Jan 2025` | stow**  
-- **`Jan 2025` | git**  
-- **`Dez 2025` | tmux**  
-- **`Dez 2025` | nvim**  
-- **`Nov 2024` | data structures**  
-- **`Nov 2024` | terminal**  
-- **`Oct 2024` | python** 
+| date        | skill     |specifics              |
+|:------------|:----------|:----------------------|
+| Jan 2025    | `markdown`|                       |              
+| Jan 2025    | `stow`    |                       |
+| Jan 2025    | `git`     |                       |
+| Dez 2025    | `tmux`    |                       |
+| Dez 2025    | `nvim`    |                       |
+| Nov 2024    | `structs` |                       |
+| Nov 2024    | `terminal`|                       |
+| Oct 2024    | `python`  |                       |
 
+_I’m obsessed with keeping track of everything_ 😅
 </details>
 
 <details>
   <summary><b>Currently Learning</b></summary>
-<br>
+<span style="display: block; margin-top: 0.5em;"></span>
 
-- **GitHub**
-- **Functional Programming**
-- **C**
+- **GitHub**  
+- **Functional Programming**  
+- **C**  
 
 </details>
 
