@@ -17,7 +17,7 @@ I'm just a guy with a passion for turning awesome ideas into reality, striving t
 
 **Fun Facts:**
 
-- I'm a professional baker – the best sourdough bread in Cyprus.
+- I'm a professional baker – the best sourdough bread.
 - I have a strong love for drawing and art.
 - I'm an exceptional video editor.
 
